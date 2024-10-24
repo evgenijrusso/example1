@@ -10,3 +10,4 @@
 - poetry add sqlalchemy, psycopg, asyncpg, pymysql (p.s. sqlalchemy не установилось сразу)
 - poetry show --tree (проверка зависимостей)
 - poetry add black --group dev (p.s. пока поставил через `settings`)
+- poetry add aiosqlite
